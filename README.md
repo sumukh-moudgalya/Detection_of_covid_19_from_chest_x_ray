@@ -7,7 +7,7 @@ This a CNN model to detect covid-19 from chest X-ray
 <p>The code can be found in code folder</p>
 <p>trained model is saved as "covid_x_ray_model.h5"</p>
 
-<h1>Model is trained using keras with tensorflow as backend</h1>
+<h3>Model is trained using keras with tensorflow as backend</h3>
 
 <p>The photos for testing can be found in testing folder</p>
 
