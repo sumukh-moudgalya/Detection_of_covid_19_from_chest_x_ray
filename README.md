@@ -14,4 +14,11 @@ This a CNN model to detect covid-19 from chest X-ray
 <b>An accuracy of 96.5% was achieved with this dataset</b>
 
 
+<h3>Libraries used</h3>
+<p>1.Keras</p>
+<p>2.Numpy</p>
+<p>3.Pandas</p>
+<p>3.splitfolders</p>
+
+
 
